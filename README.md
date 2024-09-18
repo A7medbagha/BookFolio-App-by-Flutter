@@ -1,5 +1,4 @@
 # BookFolio-App-by-Flutter
-# A Flutter app for managing your book collection.
 ## Features:
 ### - Search: Find books using the Google Books API.
 ### - Details: View book descriptions, authors, and cover images.
